@@ -1,7 +1,7 @@
 .PHONY: build serve prompt
 
 build:
-	hugo
+	hugo --minify
 
 serve:
 	hugo server -D

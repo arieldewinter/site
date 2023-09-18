@@ -14,5 +14,3 @@ hugo.linux
 /.hugo_build.lock
 
 /public
-/config.yaml
-/content

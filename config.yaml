@@ -1,0 +1,97 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "Ariel DeWinter"
+themesDir: "."
+
+# pagination limit
+Paginate: 5
+
+# Enable emoji
+enableEmoji: true
+
+# menus
+Menus:
+  main:
+    # - identifier: about
+    #   name: About
+    #   title: About Me
+    #   url: /about
+    #   weight: 1
+    - identifier: blog
+      name: Posts
+      title: Blog Posts
+      url: /blog
+      weight: 2
+
+    # Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Find me on...
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: Amazon
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: Goodreads
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "Ariel DeWinter"
+  description: Author, Dreamer, and Learner
+  favicon: "/images/heart.png"
+
+  # profile
+  profile:
+    name: "Ariel DeWinter"
+    # image: "/images/profile.webp"
+    bio: |
+      HEA writer trying to bring a little more love into the world.
+      <br>
+      Ariel lives in the Midwest, surrounded by cats, books, and an endless stream of projects.
+
+    # Document
+    # docs:
+    #   link: "https://example.com"
+    #   # If you want to change the text of the link use below line
+    #   name: Find my books!
+
+    # Social links
+    # social:
+    #   github: "https://github.com"
+    #   linkedin: "https://linkedin.com"
+    #   twitter: "https://twitter.com/"
+    #   instagram: "https://instagram.com/"
+    #   facebook: "https://facebook.com"
+
+  ThingsIdo:
+    enable: false
+    title: "Things I do"
+    things:
+      - logo: fab fa-python
+        name: Python
+        description: I build something beautiful using Python.
+        #url: https://example.com
+
+      - logo: fas fa-robot
+        name: Machine learning
+        description: I train robust models for various tasks.
+        #url: https://example.com
+
+      - logo: fab fa-html5
+        name: Things for web
+        description: I love to build things for web
+        url: https://example.com
+  footer:
+    socialNetworks:
+      #github: "https://github.com"
+      #linkedin: "https://linkedin.com"
+      #twitter: "https://twitter.com/"
+      #instagram: "https://instagram.com/"
+      #facebook: "https://facebook.com"
+    recentPosts: true
