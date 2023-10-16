@@ -48,8 +48,8 @@ params:
 
   # profile
   profile:
-    name: "Ariel DeWinter"
-    # image: "/images/profile.webp"
+    # name: "Ariel DeWinter"
+    image: "/images/arieldewinterlogo.jpg"
     bio: |
       HEA writer trying to bring a little more love into the world.
       <br>
