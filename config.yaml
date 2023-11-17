@@ -12,15 +12,15 @@ enableEmoji: true
 # menus
 Menus:
   main:
-    # - identifier: about
-    #   name: About
-    #   title: About Me
-    #   url: /about
-    #   weight: 1
     - identifier: blog
       name: Posts
       title: Blog Posts
       url: /blog
+      weight: 1
+    - identifier: email
+      name: Contact
+      title: Email Me!
+      url: mailto:ariel@arieldewinter.com
       weight: 2
 
     # Dropdown menu
