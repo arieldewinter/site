@@ -34,7 +34,7 @@ The mirror, she knew, would not agree.
 
 "She's your family!" Vic protested, strategically moving to stay outside Tanya's reach. "Family should stick together."
 
-"Are you insane? Do you not remember the drugs? The 'accidental' burns? The only time I've ever felt `safe` in my whole goddamn life is when I'm with Callie! _She_ is my family. Not you, not that _woman_, not..." The anger overpowered her senses -- clawing at her hair, she sank to the floor with a wail. "Why did you do this? Why would you do this to me?"
+"Are you insane? Do you not remember the drugs? The 'accidental' burns? The only time I've ever felt safe in my whole goddamn life is when I'm with Callie! _She_ is my family. Not you, not that _woman_, not..." The anger overpowered her senses -- clawing at her hair, she sank to the floor with a wail. "Why did you do this? Why would you do this to me?"
 
 "Tanya, I-- I-- Callie has never been right for you! I've been by your side through it all! You never look my way! I've supported you through _so much_ and you never give me a chance!" Vic's face twisted into a sneer, the calm facade falling away. "We were meant to be together!" she shrieked.
 

@@ -24,7 +24,7 @@ Step by step he climbed, at times grabbing onto the stones and greenery on eithe
 
 Reaching the entrance, he dared to stand straight for the first time in hours. The darkness stretched out before him, uneven flagstones rippling into the distance. Forest chirps and calls died away, and though he had not taken another step yet, Ryan felt miles away from where he had stood just a moment ago. The world was eerily quiet now. Did it know why he was here?
 
-The machete now traded for a flashlight, he pushed forward. Step by unsteady step, he plunged into the forgotten ruin, knowing full well that it was neither a ruin nor forgotten; someone had gone to great lengths to make it appear that way. Weaving through the minotaur's maze, he smiled into the darkness as the crude stones gave way to `concrete` and the damp air, once filled with life, now cooled his skin.
+The machete now traded for a flashlight, he pushed forward. Step by unsteady step, he plunged into the forgotten ruin, knowing full well that it was neither a ruin nor forgotten; someone had gone to great lengths to make it appear that way. Weaving through the minotaur's maze, he smiled into the darkness as the crude stones gave way to concrete and the damp air, once filled with life, now cooled his skin.
 
 The rounded tunnels gave way to angular memories, each passing alcove containing a shadow from another life. He tread carefully now; there were spirits here that did not need to be awakened. The low rumble of slowly flowing water was music to his ears and the ancient coin burned in his pocket as the underground river came into view.
 

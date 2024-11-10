@@ -28,7 +28,7 @@ The flimsy door closed behind them. "My name is Henry," the man said as he set t
 
 Elise sat down hard on a chair and promptly began to sob exhaustedly, her pronounced bosom heaving with sadness. "Wh-who are y-you?" she stuttered through the tears.
 
-"My name is Henry," he repeated. "I'm a foil. I live here in this shack in the middle of nowhere (nearby the old docks) waiting for beautiful girls like you with the long hair and the heaving bosoms. My job is to help you through the night and heed your `demand`s. Experience says you’ll have second thoughts over my age... but just because there's snow on the roof doesn't mean there aren’t logs in the fireplace!" Henry winked.
+"My name is Henry," he repeated. "I'm a foil. I live here in this shack in the middle of nowhere (nearby the old docks) waiting for beautiful girls like you with the long hair and the heaving bosoms. My job is to help you through the night and heed your demands. Experience says you’ll have second thoughts over my age... but just because there's snow on the roof doesn't mean there aren’t logs in the fireplace!" Henry winked.
 
 Her tears now having slowed, Elise sniffled as she looked up at Henry with a dazed look in her hazel eyes. "It's nice to meet you, Harry..."
 

@@ -36,7 +36,7 @@ Stephanie smirked in response. "That's not what I meant, and you know it."
 
 "Did you though? 'Cause I'm not so sure." Punctuating each word with a soft kiss on her auburn hair, he moved to the other side to nuzzle her neck. "You've mentioned this game is... intoxicating."
 
-Her breath hitched as she leaned backwards into his chest. "Don't-- you said--" She exhaled softly. "Tell me the `truth`, do you want me to teach you more about pinball or not?"
+Her breath hitched as she leaned backwards into his chest. "Don't-- you said--" She exhaled softly. "Tell me the truth, do you want me to teach you more about pinball or not?"
 
 "I absolutely do. You're hot as fuck when you nerd out."
 

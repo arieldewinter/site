@@ -26,15 +26,15 @@ The crumpled note spread flat on the table refused to give up its secrets to the
 
 "You're sure this is in English?"
 
-"Yes, dummy. I'm sure it's in English. Look: 'miss our daily `panting`, coffee zoom'."
+"Yes, dummy. I'm sure it's in English. Look: 'miss our daily panting, coffee zoom'."
 
 "I really don't think that's what it says."
 
 "Okay, but the first part is definitely right, yeah? 'Miss our daily'?"
 
-"Yeah, I think so. What's the next word, though? `Pant`? `Pants`?"
+"Yeah, I think so. What's the next word, though? Pant? Pants?"
 
-"It's longer than that. Is that a P `or` a B?"
+"It's longer than that. Is that a P or a B?"
 
 "Oooh. It might be a B."
 

@@ -24,7 +24,7 @@ Today's prompt word is **heat**![^1]
 
 "Did you at least bring any toys?"
 
-"I've always got more `heat` than you." Jenna abandoned the conversation, instead creeping closer to one of the few windows of the large warehouse. She balanced one knee and slowly maneuvered a small mirror up to the bottom edge of the window, grimacing to herself while trying not to slip in the mud.
+"I've always got more heat than you." Jenna abandoned the conversation, instead creeping closer to one of the few windows of the large warehouse. She balanced one knee and slowly maneuvered a small mirror up to the bottom edge of the window, grimacing to herself while trying not to slip in the mud.
 
 At this point, words were unnecessary; the pair had worked together for too long. Secrets were par for the course, and lies were the garnish of half-truths they told each other to make the days pass faster. This mission was one such lie, and both of them knew it. That's what made it so exciting.
 
