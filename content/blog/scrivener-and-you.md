@@ -2,7 +2,6 @@
 title: "Scrivener and You"
 date: 2024-11-11T02:22:31-05:00
 publishDate: 2024-11-09T18:45:49-05:00
-draft: true
 description: "A little bit about the app and how I use it, written for WIP Bang 3!"
 author: "Ariel DeWinter"
 tags:
