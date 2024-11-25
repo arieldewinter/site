@@ -85,7 +85,7 @@ From one word lover to another... I wish you the best of luck!
 <!-- links -->
 [Discord]: https://discord.com
 [markdown]: https://www.markdownguide.org/cheat-sheet/
-[github]: https://github.com/arieldewinter/site/blob/main/content/blog/discord-as-a-tool-for-brevity.md?plain=1
+[github]: https://raw.githubusercontent.com/arieldewinter/site/refs/heads/main/content/blog/discord-as-a-tool-for-brevity.md
 [snapshots]: https://www.literatureandlatte.com/blog/use-snapshots-in-scrivener-to-save-versions-of-your-projects
 
 <!-- footnotes -->
