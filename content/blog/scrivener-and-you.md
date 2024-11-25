@@ -7,6 +7,7 @@ author: "Ariel DeWinter"
 tags:
   - scrivener
   - writing tips
+  - wipbang post
 ---
 
 Stories take many forms: spoken word, written word, sung melody, campfire nostalgia, drunken retellings, plucked pain, solitary screams, incomprehensible babbling, the whispered chanting that echoes deep in your soul heralding the coming of Cthulhu, and even more that defy description.
