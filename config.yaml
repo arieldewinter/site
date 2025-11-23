@@ -4,7 +4,8 @@ title: "Ariel DeWinter"
 themesDir: "."
 
 # pagination limit
-Paginate: 5
+pagination:
+  pagerSize: 5
 
 # Enable emoji
 enableEmoji: true
