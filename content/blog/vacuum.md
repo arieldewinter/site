@@ -1,7 +1,7 @@
 ---
 title: "WP: Vacuum"
 date: 2025-11-23T14:56:33-05:00
-description: "..."
+description: "A fight with a vacuum cleaner, imagined through the eyes of someone much smaller."
 author: "Ariel DeWinter"
 tags:
   - prompt word
