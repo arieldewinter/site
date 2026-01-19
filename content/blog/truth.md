@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **truth**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **truth**?
-
 ---
 
 "If you look hard enough, you can see the patterns in the lights," Stephanie gestured to the machine. "Okay, so let's try it again. Pull back on the plunger, then let it slip through your fingers."
@@ -43,3 +36,11 @@ Her breath hitched as she leaned backwards into his chest. "Don't-- you said--" 
 "Steven!" She turned in his arms to face him, only to shriek as he wrapped his arms around her and lifted her onto on the pinball machine.
 
 "I've always wanted to eat you out on one of these things."
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **truth**?

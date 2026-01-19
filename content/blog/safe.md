@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **safe**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **safe**?
-
 ---
 
 _There it is again. I always fucking cry._ Those bastard tears, the betrayers; all Tanya wanted was to look in control, look like she had this all contained, look like this didn't affect her that way.
@@ -41,3 +34,11 @@ The mirror, she knew, would not agree.
 "Get the fuck out."
 
 The tears began to fall.
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **safe**?

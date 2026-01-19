@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **masquerade**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **masquerade**?
-
 ---
 
 "If you don't tell me why I should go, I will find something better to do with my time," Shannon growled hotly in my ear. "Like... you."
@@ -47,3 +40,11 @@ The stare gained a slightly-raised eyebrow. "I'm listening."
 "Baby, you're nowhere near hot and bothered enough," I chided as I leaned in to nibble her ear with a grin.
 
 "...Fine."
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **masquerade**?

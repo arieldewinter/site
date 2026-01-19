@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **heat**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **heat**?
-
 ---
 
 "Tell me again."
@@ -45,3 +38,11 @@ Then the world turned white.
 The spotlight found them without so much as a blink, and the party did too. They rocketed themselves in opposite directions to find cover, but their movement was arrested by a cheer from beyond. Bart and Jenna stared at each other from their hiding places, and he watched in horror as a smile grew on Jenna's face. Her lips started moving, and through the fear Bart was able to make out words as he slowly became more aware that the cheers had morphed into something else:
 
 "...to you, happy birthday to you! Happy birthday dear Baaarrt.... happy birthday to you!"
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **heat**?

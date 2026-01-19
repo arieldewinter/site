@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **concrete**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **concrete**?
-
 ---
 
 The temple was smaller than he thought it would be. Once-sharp steps, now crumbled with age, led upwards into darkness framed by roots and vines. A bird he didn't recognize called out, and Ryan wondered for a fleeting second if the warning was for him or for those he came for. Machete in hand, he slowly moved forward, tromping through underbrush that had remained untouched for decades at least.
@@ -29,3 +22,10 @@ The machete now traded for a flashlight, he pushed forward. Step by unsteady ste
 The rounded tunnels gave way to angular memories, each passing alcove containing a shadow from another life. He tread carefully now; there were spirits here that did not need to be awakened. The low rumble of slowly flowing water was music to his ears and the ancient coin burned in his pocket as the underground river came into view.
 
 The shadows shimmered before him and the long, thin boat that haunted his dreams materialized from the mist, its lone ferryman standing at attention. It was time to die.
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **concrete**?

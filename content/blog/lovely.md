@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **lovely**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **lovely**?
-
 ---
 
 "Goodnight, darling," I whispered as I tucked her in to bed. "Keep an eye out; the tooth fairy will come tonight and leave you some money!"
@@ -43,3 +36,11 @@ A chill crept over my skin. The windows never held the faerie for long. "Go to s
 Blockading the door with a chair, I closed my eyes tightly to try and block out the fae cries that reverberated through my bones.
 
 T̴͈̠͚̈̀͝E̶̢̐̇̀̾Ë̵͚́̈T̴̛̫̟͔̔͒̒Ĥ̷̘̜̉͜
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **lovely**?

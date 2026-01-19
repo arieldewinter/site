@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **comfort**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **comfort**?
-
 ---
 
 "Jason, I neeeed you to understaaaaand how _fucking hot_ she is," Bella slurred, trying (somewhat unsuccessfully) to stay on her stool. The latest hits of three years ago pumped over the bar speakers at barely-tolerable volumes, but Bella didn't mind. "Like, gawd." Standing up and planting her butt on the seat, she dropped her head on her folded arms. "Shmm nmmm wann ee wmm a rmm ike ee."
@@ -41,3 +34,10 @@ Jason sighed and started to get up. "I knew that last drink was a mistake." Reac
 "Am I at least a CUTE disgrace?" she sobbed into his ear.
 
 "You're an adorable disgrace," he responded.
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **comfort**?

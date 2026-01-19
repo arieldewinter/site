@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **demand**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **demand**?
-
 ---
 
 > A.N. This is an excerpt from a "silly romance" story I published about a decade ago. Enjoy the silliness!
@@ -35,3 +28,11 @@ Her tears now having slowed, Elise sniffled as she looked up at Henry with a daz
 Henry gazed into her eyes, and then nodded. "Come on, honey, time to get you some rest." He helped her up, and then walked her slowly to the rear of the kitchen to a small door. "Guest room's right through here. I know the place doesn't look big enough for more than one room from the outside, but no one cares about spatial limitations in this kind of story."
 
 She stumbled into the room. It was sparsely furnished with nothing more than a bed, chair, and dresser, but she didn't mind. She sank onto the bed and quickly fell into a deep, restless sleep.
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **demand**?

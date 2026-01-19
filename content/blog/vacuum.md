@@ -9,13 +9,6 @@ tags:
 
 Today's prompt word is **vacuum**![^1]
 
-[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
-    * It can be any word, idea, or concept
-    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
-    * Keep the editing to an absolute minimum
-    
-    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **vacuum**?
-
 ---
 
 The noise was deafening. The whirrs, the clicks, the pops, the *roar* of it all; Pepper sought refuge underneath the recliner as the beast came closer. It rarely ever went to areas that Pepper considered safe, though sometimes it intruded on her carefully-curated collections. A few minutes of tidying was a small price to pay for having to fight off the monster that appeared with such regularity.
@@ -43,3 +36,11 @@ The steady howling quickly ceased, the sound of victory filling its place. A few
 Peter's voice cut through her thoughts as she stared at the corpse of her nightmares, fantasizing about all the various ways she would attempt to tear it limb from limb later... if only she could identify what its limbs *were*. Only one word registered to her, but it was enough, and the outside was better than the inside. After all, there were monsters on the inside.
 
 *Scary* monsters.
+
+
+[^1]: The prompts are selected on a rotating basis by my friends in Discord! The rules are simple:
+    * It can be any word, idea, or concept
+    * Keep it interesting within the 2000-character limit that Discord imposes on a single message
+    * Keep the editing to an absolute minimum
+    
+    You should give it a try too -- they're fantastic opportunities to practice storytelling in a small window of time. What can you come up with for **vacuum**?
