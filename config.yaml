@@ -96,3 +96,7 @@ params:
       instagram: "https://instagram.com/arieldewinter"
       #facebook: "https://facebook.com"
     recentPosts: true
+
+module:
+  imports:
+    - path: github.com/KKKZOZ/hugo-admonitions
